@@ -1,10 +1,10 @@
-package com.example.week8project;
+package com.example.stevenclassproject;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Week8ProjectApplicationTests {
+class StevenClassProjectApplicationTests {
 
     @Test
     void contextLoads() {
